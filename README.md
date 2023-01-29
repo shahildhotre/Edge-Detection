@@ -23,3 +23,9 @@ Implemented Edge Detection using 2D Convolution
     - robert mx
     - robert my
     
+## Input Image
+![](wolves.png)
+
+## Output Image
+![](sdhotre_wolf_images_zero/wolf_first_order_derivative_row_gray.png)
+    
